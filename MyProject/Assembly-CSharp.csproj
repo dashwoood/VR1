@@ -60,11 +60,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Asteroids\Readme\Readme Files\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\Camera.cs" />
     <Compile Include="Assets\Scripts\Starship.cs" />
     <Compile Include="Assets\Scripts\TextTimer.cs" />
+    <Compile Include="Assets\Scripts\TextTimerLong.cs" />
     <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
     <None Include="Assets\MeshSmith\Fantasy1\Lady Fairy\readMe.txt" />
+    <None Include="Assets\FREE Food Pack\Shaders\Food.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/VR1/VR1/MyProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
